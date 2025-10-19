@@ -1,7 +1,7 @@
 * {
   margin:0;
   padding:0;
-  font-family: 
+  font-family: Arial, Times New Roman; 
 }
 
 body {
@@ -14,7 +14,6 @@ body {
 
 nav a{
   color:white;
-
 }
 
 nav li {
@@ -34,12 +33,11 @@ table th, table td {
  
 }
 
-
 section {
   margin: 10px;
   padding: 10px;
 }
 
 img {
-  widht: 100px;
+  width: 100px;
 }
